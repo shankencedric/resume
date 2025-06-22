@@ -25,20 +25,15 @@
     #term[Aug '21 --- Present][Quezon City]
 
     - B.S. Computer Science\
-    - Magna Cum Laude standing (GWA 1.66)\
+    - Magna Cum Laude standing (GWA 1.7)\
     - DOST Merit Scholar\
-
-    _PAREF Southridge School_\
-    #term[Apr '15 --- Jun '21][Alabang]
-
-    - Afternoon School Scholar\
 
     == Technical Skills
 
     / Programming Languages: \ #skill("C", 5) #skill("C#", 3) #skill("Python", 3) #skill("Typescript / Javascript", 3) 
-    / Front-end Development: \ #skill("React (Ionic | Native)", 3)
+    / Front-end Development: \ #skill("React (Ionic | Native)", 3) #skill("Svelte & Sveltekit", 3)
     / Back-end Development: \ #skill("MySQL / PostgreSQL", 3) #skill("Supabase", 3)
-    / Other tools / IDEs: \ #skill("VS Code / Community", 4) #skill("Git / GitHub", 3) 
+    / Other Tools: \ #skill("Git / GitHub", 4) 
     
     == Soft Skills
     - Flexibility
@@ -47,40 +42,41 @@
     - Receptive to Feedback
     - Problem-solving
 
-    #colbreak()
+    \ \ \
+
     == Projects
 
+
+    ==== #link("https://github.com/VDispo/Metrocycle-prototype")[Metrocycle 2.0 --- #icon("GitHub")]\
+    #used[Aug '24 --- Present][Unity 3D, C\#]
+    - Developed the UI/UX and educational scope of an existing software Metrocycle based on relevant literatures, exisitng data, and comments.
+
+    ==== #link("https://github.com/DFLCD-interns/flcd-app")[FLCD eLaan --- #icon("GitHub")]\
+    #used[Jul --- Aug '24][Svelte, PostgreSQL]
+    - Fullstack development using Svelte and SvelteKit, while learning from scratch on-demand
+
     ==== #link("https://github.com/aritako/rollcall")[RollCall --- #icon("GitHub")]\
-    #used[Present][Ionic React (tsx), GitHub]
+    #used[Feb --- Jun '24][Ionic React (tsx), MySQL]
     - *Teamed up with 4 coursemates* to build a software application to handle class attendance via QR code scanning.
     - Spearheaded backend development *via Supabase*.
     - Assisted in the frontend integration of the database and its interactability.
     - Utilized *Agile methodology*, communicating transparently to the team and the client.
     
     ==== #link("https://github.com/mdmacaraig/labuddy/")[Labuddy --- #icon("GitHub")]\
-    #used[Present][React-Native (js), GitHub]
+    #used[Feb --- Jun '24][React-Native (js), MySQL]
     - *Collaborated with a team of 5* coursemates to engineer a hardware device showcasing _Internet of Things_ (IoT) technology.
     - Led backend development using Supabase, focusing on *security* and seemlessness.
     - Contributed majorly to the frontend integration.
-    - Presented the project in a _Dragon's Den_ style pitch.
-
-    ==== #link("https://sites.google.com/parefsouthridge.edu.ph/astrodad-andysarcade/")[Odyssey --- #icon("link")]\ 
-    #used[Feb --- Mar '21][RPG Maker MV]
-    - *Volunteered with a committee of 12* to visualize and create a game themed around the two houses of PAREF Southridge, as part of an annual event.
-    - Programmed the *fighting scenes, including sounds, animation, UI, and team assets* in 1 to 2 weeks of continuous crunch.
-    - Produced using RPG Maker MV game engine *after learning from scratch on-demand*.
+    - Presented the project in a _Dragon's Den_-style pitch.
   
-    ==== #link("https://yummypecho.itch.io/itigil-ang-kasal")[Itigil Ang Kasal! --- #icon("itch")]\
-    #used[Nov --- Dec '21][Unity 2D, C\#]
-    - *Collaborated with 3 fellow applicants* to design a video game for the applicants game jam in DevelUP.
-    - *Built the functional protoype within 12 hours*, making use of assets contributed by the team.
-  
-    ==== Game Jam Games\
-    #used[Apr '22 + Nov '23][Unity 3D, C\#]
+    ==== Video Games\
+    #used[Feb '21 --- Dec '24][RPG Maker MV, Unity, C\#]
     - Developed within 7-day game jams in DevelUP.
-    - Synthesized game ideas *tailored to given themes and constraints*.
-    - *Published the games on itch.io* website, crafting dedicated pages for each project.
-
-    See #styled-link("https://yummypecho.itch.io/u-only-get-one-ball")[U Only Get One Ball] and #styled-link("https://yummypecho.itch.io/heavenly-hatdogs")[Heavenly Hatdogs] --- #icon("itch")\
+     - See #styled-link("https://yummypecho.itch.io/u-only-get-one-ball")[U Only Get One Ball] & #styled-link("https://yummypecho.itch.io/heavenly-hatdogs")[Heavenly Hatdogs] --- #icon("itch")
+    - *Volunteered with a committee of 12* to visualize and create a game themed around an annual event.
+     - See #styled-link("https://sites.google.com/parefsouthridge.edu.ph/astrodad-andysarcade/")[Odyssey] --- #icon("link")
+    - *Collaborated with 3 fellow applicants* to design and make a themed game within 12 hours.
+      - See #styled-link("https://yummypecho.itch.io/itigil-ang-kasal")[Itigil Ang Kasal!] --- #icon("itch")
+    - Teamed up with a coursemate to develop a game over the duration of a game development course.
   ],
 )
