@@ -38,7 +38,7 @@
         {
           "items": {
             "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
-            "Front-end Development": "React (with Ionic and React Native), Svelte & SvelteKit",
+            "Front-end Development": "React (Ionic and React Native), Svelte & SvelteKit",
             "Back-end Development": "MySQL, PostgreSQL, Supabase",
             "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation",
             "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
@@ -57,8 +57,8 @@
             "month": 8
           },
           "items": [
-            "Magna Cum Laude standing (GWA 1.6)",
-            "DOST Merit Scholar"
+            "GWA of 1.6731, Magna Cum Laude equivalent",
+            "DOST Merit Scholar "
           ]
         }
       ]
@@ -67,8 +67,8 @@
       "title": "Projects",
       "subsections": [
         {
-          "title": "Metrocycle 2.0",
-          "subtitle": "Road-safety Mobile Game | UI/UX, Accessibility, Thesis, Team of 3",
+          "title": "Road-safety Mobile Game ( Metrocycle 2.0 )",
+          "subtitle": "Team of 3 | UI/UX, Accessibility, Thesis",
           "from": {
             "year": 2024,
             "month": 8
@@ -81,15 +81,15 @@
             "Collaborated with 2 teammates to expand Metrocycle, a motorcycle road-safety game originally built for web.",
             "Defined development goals by identifying gaps and pain points through research and brainstorming.",
             "Redesigned the UI/UX and broadened the game's educational scope and accessibility.",
-            "Led the initial Android port, restoring broken features and improving overall performance.",
-            "Co-managed Unity project development, focusing on the creation of scalable systems like a centralized text and translation handler driven by editable CSV files.",
+            "Led the port to Android, debugging and restoring broken features while improving overall performance.",
+            "Co-managed Unity project development, focusing on scalable, maintainable systems like a centralized text & translation handler.",
             "Documented the entire software process to support future development and maintenance.",
             "Fostered open communication within the team, resolving conflicts and keeping focus aligned with project goals."
           ]
         },
         {
-          "title": "FLCD eLaan",
-          "subtitle": "Department Requests Website | Fullstack, Agile, Internship, Team of 5",
+          "title": "Real-world Booking Web Application ( UP FLCD éLaan )",
+          "subtitle": "Team of 5 | Fullstack, Agile, Internship",
           "from": {
             "year": 2024,
             "month": 7
@@ -101,14 +101,14 @@
           "items": [
             "Initiated a freelance-style internship with a university department alongside 4 coursemates.",
             "Co-led an agile development process, maintaining active communication with both the client and team.",
-            "Designed and implemented the foundational backend systems, including database schema design.",
+            "Designed and implemented the foundational backend systems, beginning with a normalized database schema.",
             "Developed an extensive forms page in both the frontend and its backend integration using SvelteKit.",
-            "Learned Svelte, SvelteKit, and PostgreSQL on-demand to meet the project needs."
+            "Learned Svelte, SvelteKit, and PostgreSQL quickly and on-demand to meet the project needs."
           ]
         },
         {
-          "title": "Labuddy",
-          "subtitle": "IoT-accompanying Web App | Backend, IoT, Dragon's Den, Team of 6",
+          "title": "IoT-accompanying Web Application ( Labuddy )",
+          "subtitle": "Team of 6 | Backend, IoT, Dragon's Den",
           "from": {
             "year": 2024,
             "month": 2
@@ -122,12 +122,12 @@
             "Engineered a secure and scalable backend using Supabase and MySQL.",
             "Integrated backend APIs into the web frontend using React Native.",
             "Assisted in the frontend design and user flow to ensure seamless hardware-software interaction.",
-            "Pitched the project in a high-stakes Dragon’s Den-style presentation, focusing on technical feasibility and value."
+            "Pitched the project in a high-stakes Dragon's Den-style presentation, focusing on technical feasibility and value."
           ]
         },
         {
-          "title": "RollCall",
-          "subtitle": "Class Attendance Mobile App | Fullstack, Agile, Team of 4",
+          "title": "Class Attendance Mobile App ( RollCall )",
+          "subtitle": "Team of 4 | Fullstack, Agile",
           "from": {
             "year": 2023,
             "month": 9
@@ -145,7 +145,7 @@
         },
         {
           "title": "Game Development Projects",
-          "subtitle": "Game Jams, Fast Prototype, Booth Presentation",
+          "subtitle": "Game Jams, Fast Prototyping, Booth Presentation",
           "from": {
             "year": 2021,
             "month": 2
