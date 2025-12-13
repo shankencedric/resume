@@ -33,37 +33,6 @@
       ]
     },
     {
-      "title": "Skills",
-      "subsections": [
-        {
-          "items": {
-            "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
-            "Front-end Development": "React (Ionic and React Native), Svelte & SvelteKit",
-            "Back-end Development": "MySQL, PostgreSQL, Supabase",
-            "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation",
-            "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "subsections": [
-        {
-          "title": "Bachelor of Science in Computer Science",
-          "subtitle": "University of the Philippines - Diliman",
-          "from": {
-            "year": 2022,
-            "month": 8
-          },
-          "items": [
-            "GWA of 1.6731, Magna Cum Laude equivalent",
-            "DOST Merit Scholar "
-          ]
-        }
-      ]
-    },
-    {
       "title": "Projects",
       "subsections": [
         {
@@ -158,6 +127,41 @@
             "Developed games for multiple DevelUP game jams, collaborating with peers to create themed prototypes within 7-day sprints.",
             "Selected and refined one jam entry into a more accessible and polished build for public demonstration at ConQuest 2023.",
             "Presented games from the org at the convention, guiding attendees through gameplay and fostering discussions and connections."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "subsections": [
+        {
+          "items": {
+            "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
+            "Front-end Development": "React (Ionic and React Native), Svelte & SvelteKit",
+            "Back-end Development": "MySQL, PostgreSQL, Supabase",
+            "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation",
+            "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "subsections": [
+        {
+          "title": "Bachelor of Science in Computer Science",
+          "subtitle": "University of the Philippines - Diliman",
+          "from": {
+            "year": 2022,
+            "month": 8
+          },
+          "to": {
+            "year": 2026,
+            "month": 5
+          },
+          "items": [
+            "GWA of 1.68, Cum Laude equivalent",
+            "DOST Merit Scholar"
           ]
         }
       ]
