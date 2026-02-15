@@ -1,9 +1,9 @@
 ## Preview
-[![Resume Preview](./main.png)](./main.pdf)
+[![Resume Preview](./Legara_Game-Developer-Resume.png)](./Legara_Game-Developer-Resume.pdf)
 Click on this preview to view the PDF.
 
 ## Usage
-To compile, run `typst compile main.typ main.pdf` with the typst CLI installed and on path. 
+To compile, run `typst compile main.typ <filename>.pdf` with the typst CLI installed and on path. 
 > VS Code tip: there is the [Tinymist Typst extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) which enables you to preview your work realtime--although a bit laggy on my device.
 
 ## Template
