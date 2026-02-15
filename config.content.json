@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Fullstack Developer | Game Developer on the Side",
+  "job-title": "Game Developer",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -28,7 +28,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "BS Computer Science student with hands-on experience building full-stack web and mobile apps and games. Adaptable team player with a passion for meaningful and maintainable code."
+          "text": "Unity game developer experienced in building and publishing complete titles, specializing in gameplay systems, physics, and player experience. Strong background in rapid prototyping through game jams, enabling fast iteration from concept to playable builds. Proven ability to learn large existing codebases, ship production-ready mobile games, and present projects at public conventions and academic venues."
         }
       ]
     },
@@ -37,96 +37,79 @@
       "subsections": [
         {
           "title": "Road-safety Mobile Game ( Metrocycle 2.0 )",
-          "subtitle": "Team of 3 | UI/UX, Accessibility, Thesis",
+          "subtitle": "Team of 3 | Thesis, Git Version Control, Unity3d, C#, Android",
           "from": {
             "year": 2024,
             "month": 8
           },
           "to": {
             "year": 2025,
-            "month": 6
-          },
-          "items": [
-            "Collaborated with 2 teammates to expand Metrocycle, a motorcycle road-safety game originally built for web.",
-            "Defined development goals by identifying gaps and pain points through research and brainstorming.",
-            "Redesigned the UI/UX and broadened the game's educational scope and accessibility.",
-            "Led the port to Android, debugging and restoring broken features while improving overall performance.",
-            "Co-managed Unity project development, focusing on scalable, maintainable systems like a centralized text & translation handler.",
-            "Documented the entire software process to support future development and maintenance.",
-            "Fostered open communication within the team, resolving conflicts and keeping focus aligned with project goals."
-          ]
-        },
-        {
-          "title": "Real-world Booking Web Application ( UP FLCD éLaan )",
-          "subtitle": "Team of 5 | Fullstack, Agile, Internship",
-          "from": {
-            "year": 2024,
             "month": 7
           },
-          "to": {
-            "year": 2024,
-            "month": 8
-          },
           "items": [
-            "Initiated a freelance-style internship with a university department alongside 4 coursemates.",
-            "Co-led an agile development process, maintaining active communication with both the client and team.",
-            "Designed and implemented the foundational backend systems, beginning with a normalized database schema.",
-            "Developed an extensive forms page in both the frontend and its backend integration using SvelteKit.",
-            "Learned Svelte, SvelteKit, and PostgreSQL quickly and on-demand to meet the project needs."
+            "Collaborated with 2 teammates to expand Metrocycle, a motorcycle road-safety game originally built for web",
+            "Defined development goals by identifying gaps and pain points through research and brainstorming",
+            "Took ownership of a large existing Unity codebase and learned its architecture independently, refactoring core systems for scalability, maintainability, and stability",
+            "Led Android porting effort, restoring broken systems and optimizing performance for mobile devices",
+            "Engineered a centralized localization system supporting multi-language educational content",
+            "Implemented gameplay systems including weather particle effects, avatar customization, and modular minigame framework",
+            "Redesigned UI/UX for accessibility and clarity, improving user comprehension of road safety mechanics",
+            "Co-managed development workflow, documentation, and version control practices within the team",
+            "Presented the project at the Workshop on Computation: Theory and Practice 2025, Hokkaido, Japan"
           ]
         },
         {
-          "title": "IoT-accompanying Web Application ( Labuddy )",
-          "subtitle": "Team of 6 | Backend, IoT, Dragon's Den",
+          "title": "Endless Runner Puzzle Game ( involuntary: Odd-One-Out )",
+          "subtitle": "Google Play Store, Ad Integration, Unity3d, C#, Android",
           "from": {
-            "year": 2024,
-            "month": 2
+            "year": 2025,
+            "month": 4
           },
           "to": {
-            "year": 2024,
+            "year": 2025,
             "month": 6
           },
           "items": [
-            "Led backend development for a web companion app designed to support an IoT hardware prototype.",
-            "Engineered a secure and scalable backend using Supabase and MySQL.",
-            "Integrated backend APIs into the web frontend using React Native.",
-            "Assisted in the frontend design and user flow to ensure seamless hardware-software interaction.",
-            "Pitched the project in a high-stakes Dragon's Den-style presentation, focusing on technical feasibility and value."
+            "Designed and developed an endless word-based runner game from concept to release",
+            "Integrated monetization systems using IronSource and Unity Ads, configuring reward, bannner, and interstitial ad flows",
+            "Conducted closed beta testing with 10+ external testers and iterated on gameplay balance and UX feedback",
+            "Successfully published and maintained the game on Google Play Store"
           ]
         },
         {
-          "title": "Class Attendance Mobile App ( RollCall )",
-          "subtitle": "Team of 4 | Fullstack, Agile",
+          "title": "Narrative-driven Adventure Game ( Life as a Marites )",
+          "subtitle": "Team of 2 | Itch-IO, Textmesh Pro, Unity Version Control, Unity3d, C#, Windows",
           "from": {
-            "year": 2023,
-            "month": 9
+            "year": 2025,
+            "month": 1
           },
           "to": {
-            "year": 2024,
+            "year": 2025,
             "month": 6
           },
           "items": [
-            "Developed an Android application that automates class attendance using QR code scanning.",
-            "Led backend implementation via Supabase, managing authentication, attendance logging, and class data storage.",
-            "Collaborated on frontend integration to ensure intuitive user interactions and accurate data flow.",
-            "Maintained an agile methodology workflow with weekly standups and iterative feedback from the client."
+            "Built a 3D narrative-driven adventure game inspired by Filipino “Marites” or gossiping culture",
+            "Programmed all gameplay systems including dialogue flow, branching choices, scoring logic, and text presentation systems",
+            "Implemented UI and interaction systems using TextMeshPro for dynamic dialogue rendering",
+            "Collaborated with a designer to structure branching narratives and player decision consequences"
           ]
         },
         {
-          "title": "Game Development Projects",
-          "subtitle": "Game Jams, Fast Prototyping, Booth Presentation",
+          "title": "Time-Manipulation Puzzle Platformer ( heavenly hatdogs )",
+          "subtitle": "itch.io, Game Jam, Unity3d, C#, Windows/Mac",
           "from": {
-            "year": 2021,
-            "month": 2
+            "year": 2022,
+            "month": 4
           },
           "to": {
-            "year": 2024,
-            "month": 12
+            "year": 2022,
+            "month": 5
           },
           "items": [
-            "Developed games for multiple DevelUP game jams, collaborating with peers to create themed prototypes within 7-day sprints.",
-            "Selected and refined one jam entry into a more accessible and polished build for public demonstration at ConQuest 2023.",
-            "Presented games from the org at the convention, guiding attendees through gameplay and fostering discussions and connections."
+            "Developed a 3D time-manipulation puzzle platformer focused on physics-based gameplay",
+            "Implemented a custom player controller handling gravity, slope movement, grounded states, and double jump mechanics",
+            "Iterated the project from a short game jam prototype into a polished convention-ready demo",
+            "Showcased and presented at the game and anime convention ConQuest 2023, engaging directly with players and gathering usability feedback"
           ]
         }
       ]
@@ -136,10 +119,10 @@
       "subsections": [
         {
           "items": {
-            "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
-            "Front-end Development": "React (Ionic and React Native), Svelte & SvelteKit",
-            "Back-end Development": "MySQL, PostgreSQL, Supabase",
-            "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation",
+            "Programming Languages": "C#, C, Python, TypeScript, JavaScript",
+            "Game Development": "Unity 3D, Gameplay Programming, Physics Systems, Mobile Optimization, Windows & Android Platform",
+            "Development Practices": "Version Control (Git, GitHub, Unity Version Control / PlasticSCM), Agile Methodology, Documentation",
+            "Publishing Tech": "Google Play Store, itch.io, Ad Integration (IronSource, Unity Ads)",
             "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
           }
         }
@@ -157,7 +140,7 @@
           },
           "to": {
             "year": 2026,
-            "month": 5
+            "month": 7
           },
           "items": [
             "GWA of 1.68, Cum Laude equivalent",
