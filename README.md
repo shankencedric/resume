@@ -1,5 +1,5 @@
 ## Resume Preview
-> Click on this preview to view the PDF.
+> Click on this preview to view the resume PDF.
 
 [![Resume Preview](./Legara_Game-Developer-Resume.png)](./Legara_Game-Developer-Resume.pdf)
 
