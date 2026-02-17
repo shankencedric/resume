@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Fullstack Developer | Game Developer on the Side",
+  "job-title": "Fullstack Web, Game, Software Developer",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -19,8 +19,8 @@
       "destination": "https://www.linkedin.com/in/shankencedric/"
     },
     {
-      "display": "yummypecho.itch.io",
-      "destination": "https://yummypecho.itch.io/"
+      "display": "portfolio:linktree",
+      "destination": "https://linktr.ee/legara.connect/"
     }
   ],
   "sections": [
@@ -161,7 +161,7 @@
           },
           "items": [
             "GWA of 1.68, Cum Laude equivalent",
-            "DOST Merit Scholar"
+            "Department of Science & Technology (DOST) Merit Scholar"
           ]
         }
       ]
