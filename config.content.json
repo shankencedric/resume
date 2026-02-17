@@ -7,15 +7,15 @@
       "destination": "mailto:legara.connect@gmail.com"
     },
     {
-      "display": "0919 243 2123",
+      "display": "+639192432123",
       "destination": "tel:+639192432123"
     },
     {
-      "display": "github.com/shankencedric",
+      "display": "github:shankencedric",
       "destination": "https://github.com/shankencedric"
     },
     {
-      "display": "linkedin.com/in/shankencedric",
+      "display": "linkedin:shankencedric",
       "destination": "https://www.linkedin.com/in/shankencedric/"
     }
   ],
