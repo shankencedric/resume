@@ -1,10 +1,8 @@
-## Preview
-[![Resume Preview](./main.png)](./main.pdf)
-Click on this preview to view the PDF.
+## Resume Preview
+> Click on this preview to view the resume PDF.
+
+[![Resume Preview](./Legara_Developer-Resume.png)](./Legara_Developer-Resume.pdf)
 
 ## Usage
-To compile, run `typst compile main.typ main.pdf` with the typst CLI installed and on path. 
+To compile, run `typst compile main.typ Legara_Developer-Resume.<file-extension>` with the typst CLI installed and on path. 
 > VS Code tip: there is the [Tinymist Typst extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) which enables you to preview your work realtime--although a bit laggy on my device.
-
-## Template
-The typst template used is [kiresume](https://typst.app/universe/package/kiresume).
