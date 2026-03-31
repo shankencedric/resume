@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Fullstack Web & Software Developer",
+"job-title": "Full-Stack Web & Software Developer",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -16,7 +16,7 @@
     },
     {
       "display": "linkedin:shankencedric",
-      "destination": "https://www.linkedin.com/in/shankencedric/"
+      "destination": "https://linkedin.com/in/shankencedric/"
     }
   ],
   "sections": [
@@ -24,16 +24,16 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "Graduating BS Computer Science student from the University of the Philippines Diliman with strong fullstack development experience building production-ready web and software applications used in real environments. Skilled in designing scalable backend systems, integrating APIs, and delivering clean, maintainable code. Proven ability to work in agile teams, communicate with stakeholders, and ship end-to-end features from database design to user-facing interfaces."
+          "text": "Graduating BS Computer Science student from the University of the Philippines Diliman with strong full-stack development experience building production-ready web and software applications used in real environments. Skilled in designing scalable backend systems, integrating APIs, and delivering clean, maintainable code. Proven ability to work in agile teams, communicate with stakeholders, and ship end-to-end features from database design to user-facing interfaces."
         }
       ]
     },
     {
-      "title": "Projects",
+      "title": "Experience",
       "subsections": [
         {
-          "title": "Real-world Booking Web Application (UP FLCD éLaan)",
-          "subtitle": "Team of 5 | Fullstack, Agile, Client-based Internship",
+          "title": "Full-Stack Developer Intern ( UP FLCD éLaan )",
+          "subtitle": "Team of 5 | Client-Based Internship, Agile, SvelteKit, PostgreSQL, GitHub",
           "from": {
             "year": 2024,
             "month": 7
@@ -43,7 +43,7 @@
             "month": 8
           },
           "items": [
-            "Initiated and executed a freelance-style internship with a university department to digitize their booking workflow.",
+            "Initiated and executed a freelance-style internship with a university department to digitize its booking workflow.",
             "Co-led the agile development process, facilitating sprint planning, task allocation, and regular client check-ins.",
             "Architected and implemented the core backend system, starting from a normalized PostgreSQL database schema.",
             "Developed dynamic, validated form workflows using SvelteKit, integrating frontend inputs with backend endpoints.",
@@ -51,9 +51,14 @@
             "Rapidly learned and applied Svelte, SvelteKit, and PostgreSQL to deliver a production-ready system within tight timelines.",
             "Reduced manual booking coordination by digitizing and centralizing requests into a single system used by department staff."
           ]
-        },
+        }
+      ]
+    },
+    {
+      "title": "Selected Projects",
+      "subsections": [
         {
-          "title": "IoT Companion Web Application (Labuddy)",
+          "title": "IoT Companion Web Application ( Labuddy )",
           "subtitle": "Team of 6 | Backend Lead, IoT Integration, Product Pitch",
           "from": {
             "year": 2024,
@@ -73,8 +78,8 @@
           ]
         },
         {
-          "title": "QR-based Class Attendance Software Application (RollCall)",
-          "subtitle": "Team of 5 | Fullstack Mobile App, Agile Development",
+          "title": "QR-based Class Attendance Software App ( RollCall )",
+          "subtitle": "Team of 5 | Full-Stack Mobile App, Agile Development",
           "from": {
             "year": 2023,
             "month": 9
@@ -89,7 +94,7 @@
             "Designed normalized relational database schemas and access rules to ensure data integrity and prevent duplicate or invalid attendance logs.",
             "Integrated frontend Ionic React components with backend services to deliver real-time attendance feedback.",
             "Worked in an agile environment with weekly sprints, standups, and iterative improvements based on user testing.",
-            "Actively participated in monthly standups with client team to align development with user needs and gather feedback for continuous improvement.",
+            "Actively participated in monthly standups with the client team to align development with user needs and gather feedback for continuous improvement.",
             "Eliminated manual attendance tracking errors by automating QR-based session logging with validation safeguards."
           ]
         }
@@ -102,10 +107,10 @@
           "items": {
             "Programming Languages": "TypeScript, JavaScript, Python, C, C#",
             "Frontend Development": "React (Ionic React, React Native), Svelte, SvelteKit, HTML, CSS",
-            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Authentication",
-            "Development Tools": "Git, GitHub, VS Code, Figma",
-            "Relevant Practices": "Agile Methodology, User & Software Documentation, Debugging",
-            "Additional Experience": "IoT System Integration, QR Systems, Rapid Prototyping"
+            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Authentication, API Integration",
+            "Development Practices & Tools": "Git, GitHub, VS Code, Figma, Agile Methodology, User & Software Documentation, Debugging",
+            "Additional Experience": "IoT System Integration, QR Systems, Rapid Prototyping",
+            "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
           }
         }
       ]
@@ -127,7 +132,7 @@
           "items": [
             "GWA: 1.68 (Cum Laude equivalent)",
             "Department of Science & Technology (DOST) Merit Scholar",
-            "Relevant coursework: Software Engineering (React, Node.js), Database Systems (MySQL), Operating Systems (Linux-based), Computer Networks (IoT), Data Structures & Algorithms (C), Programming Languages (Typescript, Javascript, Python)"
+            "Relevant coursework: Software Engineering (React, Node.js), Database Systems (MySQL), Operating Systems (Linux-based), Computer Networks (IoT), Data Structures & Algorithms (C), Programming Languages (TypeScript, JavaScript, Python, etc.)"
           ]
         }
       ]
