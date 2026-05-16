@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Game Developer",
+  "job-title": "Gameplay Programmer & Unity Engineer",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -28,7 +28,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "Gameplay and software developer experienced in building and shipping PC, mobile, and web-based interactive applications. Specializes in gameplay systems, physics, technical architecture, and rapid prototyping using Unity and C\\#. Proven ability to take ownership of existing codebases, refactor scalable systems, collaborate across teams, and deliver production-ready projects presented at public conventions and academic venues."
+          "text": "Computer Science graduate specializing in gameplay engineering, system architecture, and mobile optimization. Experienced in taking ownership of complex Unity codebases, refactoring scalable gameplay systems, and shipping published interactive applications across PC, mobile, and web platforms. Brings hybrid experience in game development and full-stack software engineering, with strong interests in technical architecture, rapid prototyping, and player-focused system design."
         }
       ]
     },
@@ -36,8 +36,8 @@
       "title": "Projects",
       "subsections": [
         {
-          "title": "Road-safety Mobile Game ( Metrocycle 2.0 )",
-          "subtitle": "Team of 3 | Published (the academe, itch.io), Thesis, Unity 3D, C#, Android, GitHub",
+          "title": "Metrocycle 2.0 ( Road-Safety Educational Game )",
+          "subtitle": "Team of 3 | Published (WCTP 2025 Proceedings @ Atlantis Press; itch.io), Thesis, Unity 3D, C#, Android",
           "from": {
             "year": 2024,
             "month": 8
@@ -47,19 +47,18 @@
             "month": 7
           },
           "items": [
-            "Expanded Metrocycle, a web-based motorcycle road-safety game, into a production-ready Android educational application.",
-            "Refactored and extended a large existing Unity codebase, improving scalability, maintainability, and feature extensibility.",
-            "Led Android porting and mobile optimization efforts, restoring broken systems and improving usability across devices.",
-            "Engineered a centralized localization system supporting multilingual educational content and scalable UI integration.",
-            "Implemented modular gameplay systems including weather effects, avatar customization, and reusable minigame frameworks.",
-            "Redesigned UI/UX systems for accessibility, readability, and clearer player feedback during road-safety scenarios.",
-            "Co-managed GitHub workflows, technical documentation, and collaborative development practices within a 3-person team.",
-            "Published and presented the project at the Workshop on Computation: Theory and Practice (WCTP 2025) in Hokkaido, Japan."
+            "Took technical ownership of Metrocycle, a legacy web-based Unity codebase, extending its core systems to deliver a production-ready Android educational application.",
+            "Translated research-backed educational goals into scalable systems, prioritizing clean architecture for future development teams.",
+            "Architected a centralized localization framework by replacing hardcoded text with a scalable, data-driven key-reference architecture parsed directly from CSV files.",
+            "Engineered highly extensible gameplay frameworks using ScriptableObjects, delivering a modular mix-and-match weather system and a plug-and-play architecture for adding 2D minigames.",
+            "Managed the Android migration pipeline, debugging and resolving critical cross-platform compatibility issues within a third-party AI traffic package to restore core gameplay loops on mobile.",
+            "Co-managed GitHub version control workflows, rigorous technical documentation, and agile team practices to deliver an application validated by real riders and domain experts.",
+            "Presented at the Workshop on Computation: Theory and Practice (WCTP) 2025 in Hokkaido, Japan, and published the technical architecture and findings in the conference proceedings (Atlantis Press) following rigorous academic peer review."
           ]
         },
         {
-          "title": "Endless Runner Word-Puzzle ( involuntary: Odd-One-Out )",
-          "subtitle": "Published (Google Play Store, itch.io), Unity 3D, C#, Android, IronSource, Unity Ads",
+          "title": "Odd-One-Out ( Endless Runner Word-Puzzle Game )",
+          "subtitle": "Solo Developer | Published (Google Play Store, itch.io), Unity 3D, C#, Mobile Monetization",
           "from": {
             "year": 2025,
             "month": 4
@@ -69,15 +68,15 @@
             "month": 6
           },
           "items": [
-            "Designed and developed a mobile endless runner combining word-puzzle mechanics with fast-paced gameplay loops.",
-            "Integrated monetization systems using IronSource and Unity Ads, including rewarded, banner, and interstitial flows.",
+            "Designed and engineered fast-paced endless runner mechanics and core gameplay loops with scalable, data-driven level design.",
+            "Integrated third-party monetization SDKs (IronSource, Unity Ads), implementing rewarded, banner, and interstitial ad flows.",
             "Conducted closed beta testing with 10+ external testers, iterating on gameplay balance, UX clarity, and progression pacing.",
             "Managed the full mobile release pipeline from prototyping and playtesting to Google Play Store deployment."
           ]
         },
         {
-          "title": "Narrative-driven Adventure Game ( Life as a Marites )",
-          "subtitle": "Team of 2 | Published (itch.io), Unity 3D, C#, TextMeshPro, Unity Version Control, Windows",
+          "title": "Life as a Marites ( Story-Driven Adventure Game )",
+          "subtitle": "Team of 2 | Published (itch.io), Unity 3D, C#, Data-Driven UI",
           "from": {
             "year": 2025,
             "month": 1
@@ -87,16 +86,15 @@
             "month": 6
           },
           "items": [
-            "Built a 3D narrative-driven adventure game inspired by Filipino gossip culture and branching social interactions.",
-            "Implemented gameplay systems including dialogue flow, branching choices, scoring logic, and dynamic text presentation.",
-            "Developed UI and interaction systems using TextMeshPro for responsive dialogue rendering and player feedback.",
-            "Collaborated closely with a designer to structure branching narratives and player decision consequences.",
+            "Designed and implemented a data-driven dialogue system to support complex branching narratives, dynamic state tracking, and player consequence logic.",
+            "Developed responsive UI architectures handling dynamic text parsing and event-driven player feedback systems.",
+            "Coordinated with a designer to structure branching narratives and player decision consequences.",
             "Maintained a detailed Game Design Document (GDD) covering gameplay systems, narrative structure, timelines, and production."
           ]
         },
         {
-          "title": "Time-Manipulation Puzzle Platformer ( heavenly hatdogs )",
-          "subtitle": "Published (itch.io), Game Jam, Unity 3D, C#, Windows/Mac",
+          "title": "Heavenly Hatdogs ( Physics Platformer )",
+          "subtitle": "Solo Developer | Published (itch.io), Demoed at ConQuest 2023, Unity 3D, C#, Physics Mechanics",
           "from": {
             "year": 2022,
             "month": 4
@@ -106,9 +104,8 @@
             "month": 5
           },
           "items": [
-            "Developed a 3D time-manipulation puzzle platformer centered around physics-driven gameplay systems.",
-            "Implemented a custom player controller supporting gravity handling, slope movement, grounded states, and double jumping.",
-            "Iterated the project from a short game jam prototype into a polished convention-ready demo build.",
+            "Programmed a custom physics-based kinematic character controller utilizing raycasting and vector mathematics for precise slope handling, grounded states, and custom gravity and time manipulation.",
+            "Iterated core gameplay mechanics from a rapid game jam prototype into a polished, convention-ready vertical slice optimized for live player usability testing.",
             "Presented the game at ConQuest 2023, gathering direct player usability feedback for later gameplay improvements."
           ]
         }
@@ -119,11 +116,10 @@
       "subsections": [
         {
           "items": {
-            "Programming Languages": "C#, C, Python, TypeScript, JavaScript",
-            "Game Development": "Unity 2D/3D, Gameplay Programming, Physics Systems, Technical Architecture, Mobile Optimization, UI Systems, Rapid Prototyping, Windows/Mac & Android Builds",
-            "Development Practices": "Git, GitHub, Unity Version Control (PlasticSCM), Debugging, Documentation, Agile Collaboration, System Refactoring",
-            "Publishing & Monetization": "Google Play Store Deployment, itch.io Publishing, IronSource, Unity Ads",
-            "Additional": "Localization Systems, Technical Prototyping, Game Design Documentation, Player Feedback Iteration"
+            "Game Development": "Unity (2D/3D), C#, Gameplay Systems, Custom Physics Controllers, Technical Prototyping, Mobile Optimization, Data-Driven Architecture",
+            "Web & Backend (Full-Stack)": "TypeScript, JavaScript, Python, SvelteKit, React Native, PostgreSQL, Supabase, REST APIs",
+            "Tools & Pipelines": "Git, GitHub, Unity Version Control (PlasticSCM), Google Play Console, Android SDK, Debugging",
+            "Monetization & Systems": "IronSource SDK, Unity Ads, Localization Frameworks, UI/UX Implementation, Agile Methodology"
           }
         }
       ]
@@ -143,8 +139,7 @@
             "month": 7
           },
           "items": [
-            "GWA: 1.68 (Cum Laude equivalent)",
-            "Department of Science & Technology (DOST) Merit Scholar"
+            "GWA: 1.68 (Cum Laude equivalent)  |  Department of Science & Technology (DOST) Merit Scholar"
           ]
         }
       ]
@@ -153,7 +148,7 @@
   "style": {
     "font": "",
     "font-size": "9pt",
-    "header-color": "#000035",
-    "divider-color": "#800000"
+    "header-color": "#000000",
+    "divider-color": "#7B1113"
   }
 }
