@@ -52,8 +52,8 @@
           "Led the Android porting effort, debugging broken systems and optimizing performance for mobile devices.",
           "Implemented gameplay systems including avatar customization, modular minigames, weather effects, and localization.",
           "Contributed UI/UX improvements for accessibility and clearer educational delivery.",
-          "Documented development decisions and system behavior to support future maintenance and iteration.",
-          "Presented the project at the Workshop on Computation: Theory and Practice 2025 in Hokkaido, Japan for publishing."
+          "Documented development decisions and system behavior to support future maintenance and iteration.", 
+          "Presented at the Workshop on Computation: Theory and Practice (WCTP) 2025 in Hokkaido, Japan, and published the technical architecture and findings in the conference proceedings (Atlantis Press) following rigorous academic peer review."
         ]
       },
       {
@@ -96,7 +96,6 @@
             "Co-led backend development for an IoT-enabled laundry sorting system with a real-time web companion app.",
             "Designed and implemented backend systems using Supabase and MySQL to manage device data and transactions.",
             "Collaborated with frontend developers to ensure smooth API integration and data consistency.",
-            "Contributed to UX flow and system behavior to improve interaction between users and IoT hardware.",
             "Presented the system in a Dragon's Den-style pitch, communicating technical feasibility and product value."
           ]
         },
@@ -158,7 +157,7 @@
     }
   ],
   "style": {
-    "font": "Noto Sans",
+    "font": "",
     "font-size": "9pt",
     "header-color": "#000035",
     "divider-color": "#800000"
