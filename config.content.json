@@ -16,11 +16,11 @@
     },
     {
       "display": "linkedin:shankencedric",
-      "destination": "https://www.linkedin.com/in/shankencedric/"
+      "destination": "https://linkedin.com/in/shankencedric"
     },
     {
       "display": "portfolio:linktr.ee/legara.connect",
-      "destination": "https://www.linktr.ee/legara.connect/"
+      "destination": "https://linktr.ee/legara.connect"
     }
   ],
   "sections": [
@@ -28,7 +28,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "Unity game developer experienced in building and publishing complete titles, specializing in gameplay systems, physics, and player experience. Strong background in rapid prototyping through game jams, enabling fast iteration from concept to playable builds. Proven ability to learn large existing codebases, ship production-ready PC and mobile games, and present projects at public conventions and academic venues."
+          "text": "Gameplay and software developer experienced in building and shipping PC, mobile, and web-based interactive applications. Specializes in gameplay systems, physics, technical architecture, and rapid prototyping using Unity and C\\#. Proven ability to take ownership of existing codebases, refactor scalable systems, collaborate across teams, and deliver production-ready projects presented at public conventions and academic venues."
         }
       ]
     },
@@ -37,7 +37,7 @@
       "subsections": [
         {
           "title": "Road-safety Mobile Game ( Metrocycle 2.0 )",
-          "subtitle": "Team of 3 | Undergraduate Thesis Project, Unity 3D, C#, Android, GitHub",
+          "subtitle": "Team of 3 | Published (the academe, itch.io), Thesis, Unity 3D, C#, Android, GitHub",
           "from": {
             "year": 2024,
             "month": 8
@@ -47,20 +47,19 @@
             "month": 7
           },
           "items": [
-            "Collaborated with 2 teammates to expand Metrocycle, a motorcycle road-safety game originally built for web.",
-            "Defined development goals by identifying gaps and pain points through research and brainstorming.",
-            "Took ownership of a large existing Unity codebase and learned its architecture independently, refactoring core systems for scalability and maintainability.",
-            "Led the Android porting effort, restoring broken systems and optimizing performance for mobile devices.",
-            "Engineered a centralized localization system supporting multi-language educational content.",
-            "Implemented gameplay systems including weather particle effects, avatar customization, and a modular minigame framework.",
-            "Contributed UI/UX improvements for accessibility and clarity, improving player comprehension of road-safety mechanics.",
-            "Co-managed development workflow, documentation, and version control practices within the team.",
-            "Presented the project at the Workshop on Computation: Theory and Practice 2025 in Hokkaido, Japan for publishing."
+            "Expanded Metrocycle, a web-based motorcycle road-safety game, into a production-ready Android educational application.",
+            "Refactored and extended a large existing Unity codebase, improving scalability, maintainability, and feature extensibility.",
+            "Led Android porting and mobile optimization efforts, restoring broken systems and improving usability across devices.",
+            "Engineered a centralized localization system supporting multilingual educational content and scalable UI integration.",
+            "Implemented modular gameplay systems including weather effects, avatar customization, and reusable minigame frameworks.",
+            "Redesigned UI/UX systems for accessibility, readability, and clearer player feedback during road-safety scenarios.",
+            "Co-managed GitHub workflows, technical documentation, and collaborative development practices within a 3-person team.",
+            "Published and presented the project at the Workshop on Computation: Theory and Practice (WCTP 2025) in Hokkaido, Japan."
           ]
         },
         {
-          "title": "Endless Runner Puzzle Game ( involuntary: Odd-One-Out )",
-          "subtitle": "Google Play Store, itch.io, Ad Integration, Unity 3D, C#, Android",
+          "title": "Endless Runner Word-Puzzle ( involuntary: Odd-One-Out )",
+          "subtitle": "Published (Google Play Store, itch.io), Unity 3D, C#, Android, IronSource, Unity Ads",
           "from": {
             "year": 2025,
             "month": 4
@@ -70,15 +69,15 @@
             "month": 6
           },
           "items": [
-            "Designed and developed an endless word-puzzle-based runner game from concept to release.",
-            "Integrated monetization systems using IronSource and Unity Ads, configuring rewarded, banner, and interstitial ad flows.",
-            "Conducted closed beta testing with 10+ external testers and iterated on gameplay balance and UX feedback.",
-            "Handled the end-to-end mobile release pipeline, including playtesting and Google Play Store deployment."
+            "Designed and developed a mobile endless runner combining word-puzzle mechanics with fast-paced gameplay loops.",
+            "Integrated monetization systems using IronSource and Unity Ads, including rewarded, banner, and interstitial flows.",
+            "Conducted closed beta testing with 10+ external testers, iterating on gameplay balance, UX clarity, and progression pacing.",
+            "Managed the full mobile release pipeline from prototyping and playtesting to Google Play Store deployment."
           ]
         },
         {
           "title": "Narrative-driven Adventure Game ( Life as a Marites )",
-          "subtitle": "Team of 2 | Game Design Document, itch.io, TextMeshPro, Unity Version Control, Unity 3D, C#, Windows",
+          "subtitle": "Team of 2 | Published (itch.io), Unity 3D, C#, TextMeshPro, Unity Version Control, Windows",
           "from": {
             "year": 2025,
             "month": 1
@@ -88,16 +87,16 @@
             "month": 6
           },
           "items": [
-            "Built a 3D narrative-driven adventure game inspired by Filipino \"Marites\" or gossiping culture.",
-            "Programmed all gameplay systems including dialogue flow, branching choices, scoring logic, and text presentation systems.",
-            "Implemented UI and interaction systems using TextMeshPro for dynamic dialogue rendering.",
-            "Coordinated with a designer to structure branching narratives and player decision consequences",
-            "Actively maintained a Game Design Document (GDD) containing concept arts, game mechanics, narrative  structure, and timelines to ensure alignment between development and design vision."
+            "Built a 3D narrative-driven adventure game inspired by Filipino gossip culture and branching social interactions.",
+            "Implemented gameplay systems including dialogue flow, branching choices, scoring logic, and dynamic text presentation.",
+            "Developed UI and interaction systems using TextMeshPro for responsive dialogue rendering and player feedback.",
+            "Collaborated closely with a designer to structure branching narratives and player decision consequences.",
+            "Maintained a detailed Game Design Document (GDD) covering gameplay systems, narrative structure, timelines, and production."
           ]
         },
         {
           "title": "Time-Manipulation Puzzle Platformer ( heavenly hatdogs )",
-          "subtitle": "itch.io, Game Jam, Unity 3D, C#, Windows/Mac",
+          "subtitle": "Published (itch.io), Game Jam, Unity 3D, C#, Windows/Mac",
           "from": {
             "year": 2022,
             "month": 4
@@ -107,10 +106,10 @@
             "month": 5
           },
           "items": [
-            "Developed a 3D time-manipulation puzzle platformer focused on physics-based gameplay.",
-            "Implemented a custom player controller handling gravity, slope movement, grounded states, and double jump mechanics.",
-            "Iterated the project from a short game jam prototype into a polished convention-ready demo.",
-            "Showcased and presented at the game and anime convention ConQuest 2023, engaging directly with players and gathering usability feedback important for later iterations of the game."
+            "Developed a 3D time-manipulation puzzle platformer centered around physics-driven gameplay systems.",
+            "Implemented a custom player controller supporting gravity handling, slope movement, grounded states, and double jumping.",
+            "Iterated the project from a short game jam prototype into a polished convention-ready demo build.",
+            "Presented the game at ConQuest 2023, gathering direct player usability feedback for later gameplay improvements."
           ]
         }
       ]
@@ -121,10 +120,10 @@
         {
           "items": {
             "Programming Languages": "C#, C, Python, TypeScript, JavaScript",
-            "Game Development": "Unity 3D, Gameplay Programming, Physics Systems, Mobile Optimization, Software Architecture, Windows/Mac & Android Platform Builds, Game Design Documentats, Software Documentations",
-            "Development Practices": "Version Control (Git, GitHub, Unity Version Control / PlasticSCM), Agile, Documentation, Debugging",
-            "Publishing & Monetization": "Google Play Store, itch.io, Ad Integration (IronSource, Unity Ads)",
-            "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
+            "Game Development": "Unity 2D/3D, Gameplay Programming, Physics Systems, Technical Architecture, Mobile Optimization, UI Systems, Rapid Prototyping, Windows/Mac & Android Builds",
+            "Development Practices": "Git, GitHub, Unity Version Control (PlasticSCM), Debugging, Documentation, Agile Collaboration, System Refactoring",
+            "Publishing & Monetization": "Google Play Store Deployment, itch.io Publishing, IronSource, Unity Ads",
+            "Additional": "Localization Systems, Technical Prototyping, Game Design Documentation, Player Feedback Iteration"
           }
         }
       ]
@@ -152,7 +151,7 @@
     }
   ],
   "style": {
-    "font": "Noto Sans",
+    "font": "",
     "font-size": "9pt",
     "header-color": "#000035",
     "divider-color": "#800000"
