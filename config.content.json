@@ -24,7 +24,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "Graduating BS Computer Science student from the University of the Philippines Diliman with strong full-stack development experience building production-ready web and software applications used in real environments. Skilled in designing scalable backend systems, integrating APIs, and delivering clean, maintainable code. Proven ability to work in agile teams, communicate with stakeholders, and ship end-to-end features from database design to user-facing interfaces."
+          "text": "BS Computer Science graduate from the University of the Philippines Diliman with a track record of building and deploying production-ready full-stack applications. Experienced in architecting scalable relational databases, integrating APIs, and launching end-to-end cloud systems while delivering clean, maintainable code. Proven ability to rapidly learn unfamiliar tech stacks on demand, work in agile teams, communicate with stakeholders, and translate complex requirements to user-facing interfaces."
         }
       ]
     },
@@ -33,7 +33,7 @@
       "subsections": [
         {
           "title": "Full-Stack Developer Intern ( UP FLCD éLaan )",
-          "subtitle": "Team of 5 | Client-Based Internship, Agile, SvelteKit, PostgreSQL, GitHub",
+          "subtitle": "Team of 5 | Client-based Internship, Agile, GitHub, SvelteKit, Supabase",
           "from": {
             "year": 2024,
             "month": 7
@@ -46,10 +46,9 @@
             "Initiated and executed a freelance-style internship with a university department to digitize its booking workflow.",
             "Co-led the agile development process, facilitating sprint planning, task allocation, and regular client check-ins.",
             "Architected and implemented the core backend system, starting from a normalized PostgreSQL database schema.",
-            "Developed dynamic, validated form workflows using SvelteKit, integrating frontend inputs with backend endpoints.",
+            "Developed dynamic, multi-step multi-role reservation forms using SvelteKit server actions, implementing strict server-side validation to ensure clean data entry before database insertion.",
             "Implemented role-based booking flows and data handling to support multiple user types and booking scenarios.",
-            "Rapidly learned and applied Svelte, SvelteKit, and PostgreSQL to deliver a production-ready system within tight timelines.",
-            "Reduced manual booking coordination by digitizing and centralizing requests into a single system used by department staff."
+            "Rapidly learned and applied Svelte, SvelteKit, and PostgreSQL to deliver a production-ready system within tight timelines."
           ]
         }
       ]
@@ -58,8 +57,23 @@
       "title": "Selected Projects",
       "subsections": [
         {
-          "title": "IoT Companion Web Application ( Labuddy )",
-          "subtitle": "Team of 6 | Backend Lead, IoT Integration, Product Pitch",
+          "title": "Virtual Workspace with AI Transcription ( SyncSpace )",
+          "subtitle": "Team of 4 | Project Lead, GitHub, Next.js, Supabase, Vercel, Railway",
+          "to": {
+            "year": 2026,
+            "month": 5
+          },
+          "items": [
+            "Conceptualized and co-developed a virtualized spatial office platform integrated with automated AI meeting transcriptions.",
+            "Stepped up as the acting technical lead, managing meeting agendas, sprint goals, and ensuring cross-functional task alignment.",
+            "Architected the system's ERD and implemented the Supabase backend infrastructure, handling relational database design, user authentication, and Google OAuth integration.",
+            "Developed custom Supabase backend functions and modular endpoint logic to bridge frontend UI states with real-time data.",
+            "Owned the project's multi-platform deployment topology, configuring continuous delivery pipelines on Vercel for the frontend and orchestrating independent backend call microservices on Railway hosting environments."
+          ]
+        },
+        {
+          "title": "IoT Web Companion Application ( Labuddy )",
+          "subtitle": "Team of 6 | Backend Lead, IoT Integration, Product Pitch, GitHub, Supabase, React Native",
           "from": {
             "year": 2024,
             "month": 2
@@ -70,16 +84,15 @@
           },
           "items": [
             "Led backend development for an IoT-enabled laundry sorting system with a real-time web companion app.",
-            "Designed and implemented a scalable backend using Supabase and MySQL to manage device data, user accounts, and transactions.",
-            "Collaborated with frontend developers using React Native to ensure smooth API integration and data consistency.",
-            "Contributed to UX flow and system behavior to ensure intuitive interaction between users and IoT hardware.",
-            "Presented the system in a Dragon’s Den-style pitch, communicating technical feasibility and product value to evaluators.",
-            "Enabled real-time monitoring of laundry sorting hardware, bridging physical IoT signals with a user-facing dashboard."
+            "Designed and implemented a scalable database using Supabase and PostgreSQL to manage device data and user accounts.",
+            "Engineered the Supabase data access layer, writing optimized database functions and real-time listeners to instantly sync asynchronous laundry hardware signals with the React Native client state.",
+            "Developed frontend forms and iterated on UX flow to ensure intuitive interaction between users and IoT hardware.",
+            "Presented the system in a Dragon's Den-style pitch, communicating technical feasibility and product value to evaluators."
           ]
         },
         {
-          "title": "QR-based Class Attendance Software App ( RollCall )",
-          "subtitle": "Team of 5 | Full-Stack Mobile App, Agile Development",
+          "title": "QR-based Class Attendance Software ( RollCall )",
+          "subtitle": "Team of 5 | Full-Stack Mobile App, Agile Development, GitHub, Supabase, Ionic React",
           "from": {
             "year": 2023,
             "month": 9
@@ -91,11 +104,9 @@
           "items": [
             "Developed a mobile application that automates classroom attendance using QR code scanning and session validation.",
             "Implemented backend services using Supabase to handle authentication, attendance records, and course data.",
-            "Designed normalized relational database schemas and access rules to ensure data integrity and prevent duplicate or invalid attendance logs.",
+            "Designed normalized relational database schemas and access rules to ensure data integrity and prevent duplicate logs.",
             "Integrated frontend Ionic React components with backend services to deliver real-time attendance feedback.",
-            "Worked in an agile environment with weekly sprints, standups, and iterative improvements based on user testing.",
-            "Actively participated in monthly standups with the client team to align development with user needs and gather feedback for continuous improvement.",
-            "Eliminated manual attendance tracking errors by automating QR-based session logging with validation safeguards."
+            "Worked in an agile environment with weekly sprints, monthly client standups, and iterative improvements based on user testing."
           ]
         }
       ]
@@ -106,11 +117,9 @@
         {
           "items": {
             "Programming Languages": "TypeScript, JavaScript, Python, C, C#",
-            "Frontend Development": "React (Ionic React, React Native), Svelte, SvelteKit, HTML, CSS",
-            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Authentication, API Integration",
-            "Development Practices & Tools": "Git, GitHub, VS Code, Figma, Agile Methodology, User & Software Documentation, Debugging",
-            "Additional Experience": "IoT System Integration, QR Systems, Rapid Prototyping",
-            "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
+            "Frontend Development": "Next.js, React (Ionic React, React Native), Svelte, SvelteKit, HTML, CSS",
+            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Authentication, REST & RPC API Integration",
+            "Cloud & Infrastructure": "Vercel, Railway, Git, GitHub, VS Code, Figma, Agile Methodology, Software Documentation, Debugging"
           }
         }
       ]
@@ -130,16 +139,14 @@
             "month": 7
           },
           "items": [
-            "GWA: 1.68 (Cum Laude equivalent)",
-            "Department of Science & Technology (DOST) Merit Scholar",
-            "Relevant coursework: Software Engineering (React, Node.js), Database Systems (MySQL), Operating Systems (Linux-based), Computer Networks (IoT), Data Structures & Algorithms (C), Programming Languages (TypeScript, JavaScript, Python, etc.)"
+            "GWA: 1.68 (Cum Laude equivalent) | Department of Science & Technology (DOST) Merit Scholar"
           ]
         }
       ]
     }
   ],
   "style": {
-    "font": "Noto Sans",
+    "font": "",
     "font-size": "11pt",
     "header-color": "#000035",
     "divider-color": "#800000"
