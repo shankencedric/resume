@@ -28,7 +28,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "Graduating BS Computer Science student from the University of the Philippines Diliman with hands-on experience building full-stack web applications, mobile software, and video games. Proven ability to learn unfamiliar tools quickly, take ownership of backend and gameplay systems, and deliver maintainable products in team-based and client-facing environments. Strong foundation in scalable system design, rapid prototyping, and end-to-end development from architecture to user experience."
+          "text": "Graduate BS Computer Science student from the University of the Philippines Diliman with hands-on experience building full-stack web applications, mobile software, and video games. Proven ability to learn unfamiliar tools quickly, take ownership of backend and gameplay systems, and deliver maintainable products in team-based and client-facing environments. Strong foundation in scalable system design, rapid prototyping, and end-to-end development from architecture to user experience."
         }
       ]
     },
@@ -36,7 +36,7 @@
       "title": "Experience",
       "subsections": [
       {
-        "title": "Unity Game Designer & Developer ( Metrocycle 2.0 )",
+        "title": "Mobile Game Designer & Developer ( Metrocycle 2.0 )",
         "subtitle": "Team of 3 | Undergraduate Thesis Project, Unity 3D, C#, Android, GitHub",
         "from": {
           "year": 2024,
@@ -82,21 +82,18 @@
       "title": "Selected Projects",
       "subsections": [
         {
-          "title": "IoT Companion Web Application ( Labuddy )",
-          "subtitle": "Team of 6 | Backend, IoT Integration, Dragon's Den / Product Pitch, React, Supabase, GitHub",
-          "from": {
-            "year": 2024,
-            "month": 2
-          },
+          "title": "Virtual Workspace with AI Transcription ( SyncSpace )",
+          "subtitle": "Team of 4 | Project Lead, GitHub, NextJS, Supabase, Vercel, Railway",
           "to": {
-            "year": 2024,
-            "month": 6
+            "year": 2026,
+            "month": 5
           },
           "items": [
-            "Co-led backend development for an IoT-enabled laundry sorting system with a real-time web companion app.",
-            "Designed and implemented backend systems using Supabase and MySQL to manage device data and transactions.",
-            "Collaborated with frontend developers to ensure smooth API integration and data consistency.",
-            "Presented the system in a Dragon's Den-style pitch, communicating technical feasibility and product value."
+            "Conceptualized and co-developed a virtualized spatial office platform integrated with automated AI meeting transcriptions.",
+            "Stepped up as the acting technical lead, managing meeting agendas, sprint goals, and ensuring cross-functional task alignment.",
+            "Architected the system's ERD and implemented the Supabase backend infrastructure, handling relational database design, user authentication, and Google OAuth integration.",
+            "Developed custom Supabase backend functions and modular endpoint logic to bridge frontend UI states with real-time data.",
+            "Owned the project's multi-platform deployment topology, configuring continuous delivery pipelines on Vercel for the frontend and orchestrating independent backend call microservices on Railway hosting environments."
           ]
         },
         {
@@ -126,11 +123,8 @@
         {
           "items": {
             "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
-            "Front-end Development": "React (Ionic React, React Native), Svelte & SvelteKit",
-            "Back-end Development": "MySQL, PostgreSQL, Supabase",
-            "Game Development": "Unity 3D, Gameplay Systems, Mobile Optimization, Software Architecture",
-            "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation",
-            "Soft Skills": "Flexibility, Effective Communication, Continuous Improvement, Receptive to Feedback, Problem-solving"
+            "Web Development": "React (Ionic React, React Native, NextJS), Svelte & SvelteKit; MySQL, PostgreSQL, Supabase, NodeJS",
+            "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation"
           }
         }
       ]
