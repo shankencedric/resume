@@ -44,7 +44,7 @@
           },
           "items": [
             "Initiated and executed a freelance-style internship with a university department to digitize its booking workflow.",
-            "Co-led the agile development process, facilitating sprint planning, task allocation, and regular client check-ins.",
+            "Led the agile development process, facilitating sprint planning, task allocation, and regular client check-ins.",
             "Architected and implemented the core backend system, starting from a normalized PostgreSQL database schema.",
             "Developed dynamic, multi-step multi-role reservation forms using SvelteKit server actions, implementing strict server-side validation to ensure clean data entry before database insertion.",
             "Implemented role-based booking flows and data handling to support multiple user types and booking scenarios.",
