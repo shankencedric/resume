@@ -118,7 +118,7 @@
           "items": {
             "Programming Languages": "TypeScript, JavaScript, Python, C, C#",
             "Frontend Development": "Next.js, React (Ionic React, React Native), Svelte, SvelteKit, HTML, CSS",
-            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Authentication, REST & RPC API Integration",
+            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Playwright, Authentication, REST & RPC API Integration",
             "Cloud & Infrastructure": "Vercel, Railway, Git, GitHub, VS Code, Figma, Agile Methodology, Software Documentation, Debugging"
           }
         }
