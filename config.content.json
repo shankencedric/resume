@@ -28,7 +28,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "Graduate BS Computer Science student from the University of the Philippines Diliman with hands-on experience building full-stack web applications, mobile software, and video games. Proven ability to learn unfamiliar tools quickly, take ownership of backend and gameplay systems, and deliver maintainable products in team-based and client-facing environments. Strong foundation in scalable system design, rapid prototyping, and end-to-end development from architecture to user experience."
+          "text": "BS Computer Science graduate from the University of the Philippines Diliman with hands-on experience building full-stack web applications, mobile software, and video games. Proven ability to learn unfamiliar tools quickly, take ownership of backend and gameplay systems, and deliver maintainable products in team-based and client-facing environments. Strong foundation in scalable system design, rapid prototyping, and end-to-end development from architecture to user experience."
         }
       ]
     },
@@ -123,7 +123,7 @@
         {
           "items": {
             "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
-            "Web Development": "React (Ionic React, React Native, NextJS), Svelte & SvelteKit; MySQL, PostgreSQL, Supabase, NodeJS",
+            "Web Development": "Ionic React, React Native, NextJS, Svelte & SvelteKit; Playwright; MySQL, PostgreSQL, Supabase, NodeJS",
             "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation"
           }
         }
