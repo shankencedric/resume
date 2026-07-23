@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Data Analytics | Software Development",
+  "job-title": "Software Developer",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -58,7 +58,7 @@
       "subsections": [
         {
           "title": "Social Media Misinformation Analysis ( Misinfometrics )",
-          "subtitle": "Team of 3 | Data Collection, Data Cleaning, Statistical Analysis, Technical Writing",
+          "subtitle": "Team of 3 | Data Collection, Data Cleaning, Technical Writing, Research Documentation",
           "from": {
             "year": 2023,
             "month": 2
@@ -71,7 +71,8 @@
             "Collected and manually curated 30-40 Twitter posts related to misinformation surrounding a Scarborough Shoal issue.",
             "Performed manual sentiment labeling and data cleaning on over 50 posts through duplicate removal and missing-value handling.",
             "Assisted in preparing validated datasets for hypothesis testing by ensuring consistency and completeness of all records.",
-            "Contributed to technical writing, research documentation, and presentation materials explaining the study methodology and statistical findings to technical and non-technical audiences."
+            "Contributed to technical writing, research documentation, and presentation materials explaining the study methodology and statistical findings to technical and non-technical audiences.",
+            "Received the Creative Solutions Award for the novel use of Twitter 'ratio' dynamics to analyze social media misinformation."
           ]
         },
         {
@@ -88,7 +89,7 @@
           "items": [
             "Worked within a large existing codebase, independently learning system architecture and contributing new features.",
             "Led Android deployment, testing, debugging, and performance optimization efforts.",
-            "Contributed to the ideation and technical documentation of research methodologies and interpretation of statistical findings.",
+            "Contributed to research methodology ideation and documentation, and interpretation of statistical findings.",
             "Presented the project findings to an international academic audience at the Workshop on Computation: Theory and Practice (WCTP 2025), communicating technical results in accessible language.",
             "Published the study after rigorous academic peer-review at the proceedings of WCTP 2025 in Hokkaido, Japan."
           ]
@@ -132,8 +133,8 @@
         {
           "items": {
             "Languages": "Python, SQL, TypeScript, JavaScript, C#, C",
-            "Databases & Data": "PostgreSQL, MySQL, Supabase, Relational Database Design & Normalization, Data Validation, Data Modeling, Technical Documentation",
-            "Frameworks & Tools": "SvelteKit, React, NextJS, Ionic React, NodeJS, Git/GitHub, Playwright"
+            "Databases & Data": "PostgreSQL, MySQL, Relational Database Design & Normalization, Data Validation, Technical Documentation",
+            "Frameworks & Tools": "SvelteKit, React, NextJS, Ionic React, Supabase, NodeJS, Git/GitHub, Playwright"
           }
         }
       ]
