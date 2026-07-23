@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Software Developer | Full-Stack & Game Development",
+  "job-title": "Data Analytics | Software Development",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -17,10 +17,6 @@
     {
       "display": "linkedin:shankencedric",
       "destination": "https://www.linkedin.com/in/shankencedric/"
-    },
-    {
-      "display": "games:linktr.ee/legara.connect",
-      "destination": "https://www.linktr.ee/legara.connect/"
     }
   ], 
   "sections": [
@@ -28,34 +24,13 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "BS Computer Science graduate from the University of the Philippines Diliman with hands-on experience building full-stack web applications, mobile software, and video games. Proven ability to learn unfamiliar tools quickly, take ownership of backend and gameplay systems, and deliver maintainable products in team-based and client-facing environments. Strong foundation in scalable system design, rapid prototyping, and end-to-end development from architecture to user experience."
+          "text": "BS Computer Science graduate from the University of the Philippines Diliman with experience in SQL, Python, relational databases, and data-driven systems. Built projects involving data collection, cleaning, validation, database design, and backend development. Strong foundation in analyzing data, ensuring data quality, and communicating findings to technical and non-technical audiences."
         }
       ]
     },
     {
       "title": "Experience",
       "subsections": [
-      {
-        "title": "Mobile Game Designer & Developer ( Metrocycle 2.0 )",
-        "subtitle": "Team of 3 | Undergraduate Thesis Project, Unity 3D, C#, Android, GitHub",
-        "from": {
-          "year": 2024,
-          "month": 8
-        },
-        "to": {
-          "year": 2025,
-          "month": 7
-        },
-        "items": [
-          "Collaborated with 2 teammates to expand Metrocycle, a motorcycle road-safety game originally built for web.",
-          "Took ownership of a large existing codebase, learning its architecture independently to build for scalability and maintainability.",
-          "Led the Android porting effort, debugging broken systems and optimizing performance for mobile devices.",
-          "Implemented gameplay systems including avatar customization, modular minigames, weather effects, and localization.",
-          "Contributed UI/UX improvements for accessibility and clearer educational delivery.",
-          "Documented development decisions and system behavior to support future maintenance and iteration.", 
-          "Presented at the Workshop on Computation: Theory and Practice (WCTP) 2025 in Hokkaido, Japan, and published the technical architecture and findings in the conference proceedings (Atlantis Press) following rigorous academic peer review."
-        ]
-      },
       {
         "title": "Full-Stack Developer Intern ( UP FLCD éLaan )",
         "subtitle": "Team of 5 | Client-Based Internship, Agile, SvelteKit, PostgreSQL, GitHub",
@@ -68,11 +43,11 @@
           "month": 8
         },
         "items": [
-          "Initiated and executed a freelance-style internship with a university department to digitize its booking workflow.",
-          "Co-led agile development through sprint planning, task coordination, and regular client check-ins.",
-          "Architected and implemented the core backend system, starting from a normalized PostgreSQL database schema.",
+          "Partnered with a university department to digitize its booking operations, replacing manual processes with a web-based system.",
+          "Collaborated directly with stakeholders to translate business requirements and workflows into database and application features.",
+          "Designed a normalized PostgreSQL database schema with backend for storage, retrieval, and validation of booking records.",
           "Developed dynamic, validated form workflows in SvelteKit, integrating frontend inputs with backend endpoints.",
-          "Built role-based booking flows to support different user types and request scenarios.",
+          "Implemented user roles and validation rules to ensure data integrity across different booking scenarios.",
           "Rapidly learned and applied Svelte, SvelteKit, and PostgreSQL to deliver a production-ready system within tight timelines."
         ]
       }
@@ -82,18 +57,54 @@
       "title": "Selected Projects",
       "subsections": [
         {
-          "title": "Virtual Workspace with AI Transcription ( SyncSpace )",
+          "title": "Social Media Misinformation Analysis ( Misinfometrics )",
+          "subtitle": "Team of 3 | Data Collection, Data Cleaning, Statistical Analysis, Technical Writing",
+          "from": {
+            "year": 2023,
+            "month": 2
+          },
+          "to": {
+            "year": 2023,
+            "month": 7
+          },
+          "items": [
+            "Collected and manually curated 30-40 Twitter posts related to misinformation surrounding a Scarborough Shoal issue.",
+            "Performed manual sentiment labeling and data cleaning on over 50 posts through duplicate removal and missing-value handling.",
+            "Assisted in preparing validated datasets for hypothesis testing by ensuring consistency and completeness of all records.",
+            "Contributed to technical writing, research documentation, and presentation materials explaining the study methodology and statistical findings to technical and non-technical audiences."
+          ]
+        },
+        {
+          "title": "Road-safety Mobile Application ( Metrocycle 2.0 )",
+          "subtitle": "Team of 3 | Research Thesis, Technical Writing, C#, Android, GitHub",
+          "from": {
+            "year": 2024,
+            "month": 8
+          },
+          "to": {
+            "year": 2025,
+            "month": 7
+          },
+          "items": [
+            "Worked within a large existing codebase, independently learning system architecture and contributing new features.",
+            "Led Android deployment, testing, debugging, and performance optimization efforts.",
+            "Contributed to the ideation and technical documentation of research methodologies and interpretation of statistical findings.",
+            "Presented the project findings to an international academic audience at the Workshop on Computation: Theory and Practice (WCTP 2025), communicating technical results in accessible language.",
+            "Published the study after rigorous academic peer-review at the proceedings of WCTP 2025 in Hokkaido, Japan."
+          ]
+        },
+        {
+          "title": "Collaborative Workspace Platform ( SyncSpace )",
           "subtitle": "Team of 4 | Project Lead, GitHub, NextJS, Supabase, Vercel, Railway",
           "to": {
             "year": 2026,
             "month": 5
           },
           "items": [
-            "Conceptualized and co-developed a virtualized spatial office platform integrated with automated AI meeting transcriptions.",
+            "Designed a normalized relational database schema and backend architecture for a collaborative virtual workspace platform.",
             "Stepped up as the acting technical lead, managing meeting agendas, sprint goals, and ensuring cross-functional task alignment.",
-            "Architected the system's ERD and implemented the Supabase backend infrastructure, handling relational database design, user authentication, and Google OAuth integration.",
-            "Developed custom Supabase backend functions and modular endpoint logic to bridge frontend UI states with real-time data.",
-            "Owned the project's multi-platform deployment topology, configuring continuous delivery pipelines on Vercel for the frontend and orchestrating independent backend call microservices on Railway hosting environments."
+            "Developed backend functions and data-access layers using Supabase and PostgreSQL to transform and synchronize handled data.",
+            "Owned the multi-platform deployment: configuring Vercel for frontend and orchestrating backend on Railway environments."
           ]
         },
         {
@@ -110,9 +121,7 @@
           "items": [
             "Developed a mobile application that automates classroom attendance through QR code scanning and session validation.",
             "Implemented backend services using Supabase for authentication, attendance records, and course data.",
-            "Designed relational database structures and validation rules to prevent duplicate or invalid attendance logs.",
-            "Integrated frontend components with backend services to provide real-time attendance feedback.",
-            "Worked in an agile environment with weekly standups and iterative improvements based on client feedback."
+            "Designed relational database schema and validation rules to ensure accuracy, integrity, and consistency across attendance records."
           ]
         }
       ]
@@ -122,9 +131,9 @@
       "subsections": [
         {
           "items": {
-            "Programming Languages": "C, C#, Python, TypeScript, JavaScript",
-            "Web Development": "Ionic React, React Native, NextJS, Svelte & SvelteKit; Playwright; MySQL, PostgreSQL, Supabase, NodeJS",
-            "Development Practices": "Version Control (Git, GitHub), Agile Methodology, Documentation"
+            "Languages": "Python, SQL, TypeScript, JavaScript, C#, C",
+            "Databases & Data": "PostgreSQL, MySQL, Supabase, Relational Database Design & Normalization, Data Validation, Data Modeling, Technical Documentation",
+            "Frameworks & Tools": "SvelteKit, React, NextJS, Ionic React, NodeJS, Git/GitHub, Playwright"
           }
         }
       ]
@@ -141,7 +150,7 @@
           },
           "to": {
             "year": 2026,
-            "month": 6
+            "month": 7
           },
           "items": [
             "1.68 GWA | Cum Laude equivalent | Department of Science & Technology (DOST) Merit Scholar"

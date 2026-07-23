@@ -1,7 +1,7 @@
 ## Resume Preview
 > Click on this preview to view the resume PDF.
 
-[![Resume Preview](./Legara_Developer-Resume.png)](./Legara_Developer-Resume.pdf)
+[![Resume Preview](./Legara_Data-Analyst-Resume.png)](./Legara_Data-Analyst-Resume.pdf)
 
 ## Usage
 To compile, run `typst compile main.typ Legara_Developer-Resume.<file-extension>` with the typst CLI installed and on path. 
