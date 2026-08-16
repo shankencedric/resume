@@ -12,7 +12,7 @@
 &emsp;*Focused on backend systems, databases, fullstack applications, and production deployments.*
 3. [Generalist Developer Resume](https://github.com/shankencedric/resume/tree/general_dev) 💻✨<br>
 &emsp;*A balanced version highlighting my key development experience.*
-4. [Generalist Developer Resume](https://github.com/shankencedric/resume/tree/data-analyst_dev) 🔢1️⃣<br>
+4. [Data Analyst Resume](https://github.com/shankencedric/resume/tree/data-analyst_dev) 🔢1️⃣<br>
 &emsp;*Focused on data analyst and data science experiences, along with relevant software engineering projects.*
 
 ## Template
