@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-"job-title": "Full-Stack Web & Software Developer",
+  "job-title": "Software Engineer | AI & Full-Stack Development",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -24,7 +24,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "BS Computer Science graduate from the University of the Philippines Diliman with a track record of building and deploying production-ready full-stack applications. Experienced in architecting scalable relational databases, integrating APIs, and launching end-to-end cloud systems while delivering clean, maintainable code. Proven ability to rapidly learn unfamiliar tech stacks on demand, work in agile teams, communicate with stakeholders, and translate complex requirements to user-facing interfaces."
+          "text": "BS Computer Science graduate from the University of the Philippines Diliman with a track record of building full-stack applications, leveraging AI-assisted tools for rapid, documented software delivery. Experienced in architecting scalable relational databases and launching end-to-end systems while shipping clean, maintainable code. Proven ability to rapidly adapt to unfamiliar tech stacks on-demand, work in agile teams, communicate with stakeholders, and translate complex requirements to user-facing interfaces."
         }
       ]
     },
@@ -57,6 +57,21 @@
       "title": "Selected Projects",
       "subsections": [
         {
+          "title": "Web Wrapper with Widgets for iOS & CarPlay ( LiveLyrics )",
+          "subtitle": "Sole Developer | React Native, Swift, Objective-C, WidgetKit, Expo, GitHub",
+          "from": {
+            "year": 2026,
+            "month": 8
+          },
+          "items": [
+            "Directed Gemini 3.6 Flash to rapidly prototype, debug, and ship an end-to-end iOS application within a single week.",
+            "Architected a music web wrapper delivering real-time synced lyrics across iOS Home Screen, Lock Screen, and CarPlay widgets.",
+            "Orchestrated React Native to WidgetKit IPC using AI-assisted Swift and Objective-C bridges to shared UserDefaults.",
+            "Designed real-time DOM lyrics scraping, LRC parsing, and background playback pipelines to maintain functionalities upon lock.",
+            "Managed Expo prebuild workflows, target entitlement capabilities, and documentation for physical iPhone deployment."
+          ]
+        },
+        {
           "title": "Virtual Workspace with AI Transcription ( SyncSpace )",
           "subtitle": "Team of 4 | Project Lead, GitHub, Next.js, Supabase, Vercel, Railway",
           "to": {
@@ -88,25 +103,6 @@
             "Engineered the Supabase data access layer, writing optimized database functions and real-time listeners to instantly sync asynchronous laundry hardware signals with the React Native client state.",
             "Developed frontend forms and iterated on UX flow to ensure intuitive interaction between users and IoT hardware.",
             "Presented the system in a Dragon's Den-style pitch, communicating technical feasibility and product value to evaluators."
-          ]
-        },
-        {
-          "title": "QR-based Class Attendance Software ( RollCall )",
-          "subtitle": "Team of 5 | Full-Stack Mobile App, Agile Development, GitHub, Supabase, Ionic React",
-          "from": {
-            "year": 2023,
-            "month": 9
-          },
-          "to": {
-            "year": 2024,
-            "month": 6
-          },
-          "items": [
-            "Developed a mobile application that automates classroom attendance using QR code scanning and session validation.",
-            "Implemented backend services using Supabase to handle authentication, attendance records, and course data.",
-            "Designed normalized relational database schemas and access rules to ensure data integrity and prevent duplicate logs.",
-            "Integrated frontend Ionic React components with backend services to deliver real-time attendance feedback.",
-            "Worked in an agile environment with weekly sprints, monthly client standups, and iterative improvements based on user testing."
           ]
         }
       ]
