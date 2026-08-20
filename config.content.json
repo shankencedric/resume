@@ -1,6 +1,6 @@
 {
   "candidate-name": "Cedric Legara",
-  "job-title": "Software Engineer | AI & Full-Stack Development",
+  "job-title": "Software Engineer | Full-Stack Development",
   "links": [
     {
       "display": "legara.connect@gmail.com",
@@ -24,7 +24,7 @@
       "title": "Summary",
       "subsections": [
         {
-          "text": "BS Computer Science graduate from the University of the Philippines Diliman with a track record of building full-stack applications, leveraging AI-assisted tools for rapid, documented software delivery. Experienced in architecting scalable relational databases and launching end-to-end systems while shipping clean, maintainable code. Proven ability to rapidly adapt to unfamiliar tech stacks on-demand, work in agile teams, communicate with stakeholders, and translate complex requirements to user-facing interfaces."
+          "text": "BS Computer Science graduate from the University of the Philippines Diliman with a strong track record of architecting full-stack web and mobile applications using React, Next.js, TypeScript, Node.js, and SQL databases. Experienced in building dynamic QR-based tools, user dashboards, real-time API integrations, and scalable relational database schemas while delivering clean, maintainable code. Proven ability to rapidly master new technologies on-demand, lead technical workflows in agile teams, and translate product requirements into intuitive user interfaces."
         }
       ]
     },
@@ -33,7 +33,7 @@
       "subsections": [
         {
           "title": "Full-Stack Developer Intern ( UP FLCD éLaan )",
-          "subtitle": "Team of 5 | Client-based Internship, Agile, GitHub, SvelteKit, Supabase",
+          "subtitle": "Team of 5 | Client-based Internship, Agile, GitHub, SvelteKit, Supabase, PostgreSQL",
           "from": {
             "year": 2024,
             "month": 7
@@ -45,9 +45,9 @@
           "items": [
             "Initiated and executed a freelance-style internship with a university department to digitize its booking workflow.",
             "Led the agile development process, facilitating sprint planning, task allocation, and regular client check-ins.",
-            "Architected and implemented the core backend system, starting from a normalized PostgreSQL database schema.",
-            "Developed dynamic, multi-step multi-role reservation forms using SvelteKit server actions, implementing strict server-side validation to ensure clean data entry before database insertion.",
-            "Implemented role-based booking flows and data handling to support multiple user types and booking scenarios.",
+            "Architected and implemented the core backend system, starting from a normalized PostgreSQL relational database schema.",
+            "Developed dynamic, multi-step multi-role reservation forms using server actions, implementing strict server-side validation to ensure clean data entry before database insertion.",
+            "Implemented role-based booking flows and data handling to support multiple user types and administrative dashboards.",
             "Rapidly learned and applied Svelte, SvelteKit, and PostgreSQL to deliver a production-ready system within tight timelines."
           ]
         }
@@ -57,52 +57,52 @@
       "title": "Selected Projects",
       "subsections": [
         {
-          "title": "Web Wrapper with Widgets for iOS & CarPlay ( LiveLyrics )",
-          "subtitle": "Sole Developer | React Native, Swift, Objective-C, WidgetKit, Expo, GitHub",
+          "title": "QR-based Class Attendance Software ( RollCall )",
+          "subtitle": "Team of 5 | Full-Stack Mobile App, Agile Development, GitHub, Supabase, Ionic React, PostgreSQL",
           "from": {
-            "year": 2026,
-            "month": 8
-          },
-          "items": [
-            "Directed Gemini 3.6 Flash to rapidly prototype, debug, and ship an end-to-end iOS application within a single week.",
-            "Architected a music web wrapper delivering real-time synced lyrics across iOS Home Screen, Lock Screen, and CarPlay widgets.",
-            "Orchestrated React Native to WidgetKit IPC using AI-assisted Swift and Objective-C bridges to shared UserDefaults.",
-            "Designed real-time DOM lyrics scraping, LRC parsing, and background playback pipelines to maintain functionalities upon lock.",
-            "Managed Expo prebuild workflows, target entitlement capabilities, and documentation for physical iPhone deployment."
-          ]
-        },
-        {
-          "title": "Virtual Workspace with AI Transcription ( SyncSpace )",
-          "subtitle": "Team of 4 | Project Lead, GitHub, Next.js, Supabase, Vercel, Railway",
-          "to": {
-            "year": 2026,
-            "month": 5
-          },
-          "items": [
-            "Conceptualized and co-developed a virtualized spatial office platform integrated with automated AI meeting transcriptions.",
-            "Stepped up as the acting technical lead, managing meeting agendas, sprint goals, and ensuring cross-functional task alignment.",
-            "Architected the system's ERD and implemented the Supabase backend infrastructure, handling relational database design, user authentication, and Google OAuth integration.",
-            "Developed custom Supabase backend functions and modular endpoint logic to bridge frontend UI states with real-time data.",
-            "Owned the project's multi-platform deployment topology, configuring continuous delivery pipelines on Vercel for the frontend and orchestrating independent backend call microservices on Railway hosting environments."
-          ]
-        },
-        {
-          "title": "IoT Web Companion Application ( Labuddy )",
-          "subtitle": "Team of 6 | Backend Lead, IoT Integration, Product Pitch, GitHub, Supabase, React Native",
-          "from": {
-            "year": 2024,
-            "month": 2
+            "year": 2023,
+            "month": 9
           },
           "to": {
             "year": 2024,
             "month": 6
           },
           "items": [
-            "Led backend development for an IoT-enabled laundry sorting system with a real-time web companion app.",
-            "Designed and implemented a scalable database using Supabase and PostgreSQL to manage device data and user accounts.",
-            "Engineered the Supabase data access layer, writing optimized database functions and real-time listeners to instantly sync asynchronous laundry hardware signals with the React Native client state.",
-            "Developed frontend forms and iterated on UX flow to ensure intuitive interaction between users and IoT hardware.",
-            "Presented the system in a Dragon's Den-style pitch, communicating technical feasibility and product value to evaluators."
+            "Developed a full-stack application that automates classroom attendance using QR code scanning and dynamic session validation.",
+            "Implemented backend services using Supabase and PostgreSQL to manage auth, real-time attendance records, and course data.",
+            "Designed normalized relational database schemas and access rules to guarantee data integrity and prevent duplicate logs.",
+            "Integrated frontend Ionic React components with backend services to deliver real-time attendance validation feedback.",
+            "Worked in an agile environment with weekly sprints, client standups, and iterative UX improvements based on user feedback."
+          ]
+        },
+        {
+          "title": "Virtual Workspace with AI Transcription ( SyncSpace )",
+          "subtitle": "Team of 4 | Technical Lead, Next.js, TypeScript, React, Supabase, PostgreSQL, Vercel, Railway, GitHub",
+          "to": {
+            "year": 2026,
+            "month": 5
+          },
+          "items": [
+            "Conceptualized, led, and co-developed a virtualized spatial office platform integrated with automated AI meeting transcriptions.",
+            "Stepped up as acting technical lead, directing sprint goals, technical documentation, and cross-functional task alignment.",
+            "Architected the system's ERD and implemented the Supabase backend infrastructure, handling relational database design, user authentication, and Google OAuth integration.",
+            "Developed custom Supabase backend functions and modular REST endpoint logic to bridge frontend UI states with real-time data.",
+            "Owned the multi-platform deployment topology, configuring CI/CD pipelines on Vercel for the frontend and orchestrating independent backend microservices on Railway."
+          ]
+        },
+        {
+          "title": "Web Wrapper with Widgets for iOS & CarPlay ( LiveLyrics )",
+          "subtitle": "Sole Developer | React Native, TypeScript, Swift, Objective-C, WidgetKit, REST APIs, GitHub",
+          "from": {
+            "year": 2026,
+            "month": 8
+          },
+          "items": [
+            "Directed AI-assisted development tools to rapidly prototype, debug, and ship an end-to-end music application within 2 weeks.",
+            "Architected an web wrapper app delivering real-time synced lyrics across iOS Home Screen, Lock Screen, and CarPlay widgets.",
+            "Orchestrated React Native to WidgetKit IPC using Swift and Objective-C bridges to shared UserDefaults data structures.",
+            "Designed real-time DOM lyrics scraping, LRC parsing algorithms, and background playback pipelines.",
+            "Managed Expo prebuild workflows, target entitlement capabilities, and physical iOS deployment documentation."
           ]
         }
       ]
@@ -113,8 +113,8 @@
         {
           "items": {
             "Programming Languages": "TypeScript, JavaScript, Python, C, C#",
-            "Frontend Development": "Next.js, React (Ionic React, React Native), Svelte, SvelteKit, HTML, CSS",
-            "Backend & Databases": "Supabase, PostgreSQL, MySQL, Playwright, Authentication, REST & RPC API Integration",
+            "Frontend Development": "Next.js, React (Ionic React, React Native), Svelte, SvelteKit, HTML5, CSS3",
+            "Backend & Databases": "Node.js, Supabase, PostgreSQL, MySQL, Playwright, Authentication, REST & RPC API Integration",
             "Cloud & Infrastructure": "Vercel, Railway, Git, GitHub, VS Code, Figma, Agile Methodology, Software Documentation, Debugging"
           }
         }
